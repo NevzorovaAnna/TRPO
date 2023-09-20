@@ -35,7 +35,7 @@ switch (operation)
         }
         else
         {
-            Console.WriteLine("Ошибка: Деление на ноль!");
+            Console.WriteLine("Ошибка: Деление на ноль!!!!");
             return;
         }
         break;
