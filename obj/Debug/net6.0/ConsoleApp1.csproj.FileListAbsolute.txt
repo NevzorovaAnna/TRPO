@@ -1,0 +1,30 @@
+C:\Study\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Study\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Study\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Study\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Study\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Study\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Study\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Невзорова\Desktop\учеба\3 курс\ТРПО\TRPO\obj\Debug\net6.0\ref\ConsoleApp1.dll
