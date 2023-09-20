@@ -39,6 +39,9 @@ switch (operation)
             return;
         }
         break;
+    case '^':
+        result = Math.Pow(num1,num2);
+        break;
     default:
         Console.WriteLine("Ошибка: Неверная операция!");
         return;
